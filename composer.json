@@ -1,0 +1,10 @@
+{
+  "name": "klicher/wp-polylang-translate-rewrite-slugs",
+  "type": "wordpress-plugin",
+	"version": "master",
+  "authors": [],
+	"require": {
+    "wecodemore/wpstarter": "~2.0",
+    "johnpbloch/wordpress-core": ">5.0"
+  }
+}
